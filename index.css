@@ -14,3 +14,14 @@ html, body, div, section, p, h1 {
 .panel {
   margin-top: 40px;
 }
+/*
+.thumbnail img {
+  height: 50px;
+}*/
+
+
+.thumbnail .caption {
+  width: 100%;
+  text-align: center;
+  margin-bottom: -10px;
+}
