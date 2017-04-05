@@ -20,6 +20,11 @@ html, body, div, section, p, h1 {
 }*/
 
 
+.front-end, .back-end {
+  display: flex;
+  justify-content: space-around;
+}
+
 .thumbnail .caption {
   width: 100%;
   text-align: center;
