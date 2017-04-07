@@ -14,10 +14,10 @@ html, body, div, section, p, h1 {
 .panel {
   margin-top: 40px;
 }
-/*
-.thumbnail img {
-  height: 50px;
-}*/
+
+.thumbnail:hover {
+  border: 1px solid steelblue;
+}
 
 
 .front-end, .back-end {
@@ -33,4 +33,18 @@ html, body, div, section, p, h1 {
 
 .skills {
   margin-top: 20px;
+}
+
+.profile-pic {
+  float: left;
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+  margin-right: 10px;
+}
+
+.clearfix:after {
+  display: block;
+  content: "";
+  clear: both;
 }
