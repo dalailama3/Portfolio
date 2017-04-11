@@ -49,6 +49,23 @@ html, body, div, section, p, h1 {
   clear: both;
 }
 
-div.about {
+/*div.about {
   margin-top: 20px;
+}*/
+
+#skills {
+  padding-top: 100px;
+}
+
+#contact {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#about {
+  padding-top: 100px;
+}
+
+section {
+  padding-top: 30px;
 }
