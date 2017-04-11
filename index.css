@@ -19,9 +19,9 @@ html, body, div, section, p, h1 {
   border: 1px solid steelblue;
 }
 
-
 .front-end, .back-end {
   display: flex;
+  align-items: center;
   justify-content: space-around;
 }
 
@@ -31,7 +31,7 @@ html, body, div, section, p, h1 {
   margin-bottom: -10px;
 }
 
-.skills {
+.myskills {
   margin-top: 20px;
 }
 
@@ -47,4 +47,8 @@ html, body, div, section, p, h1 {
   display: block;
   content: "";
   clear: both;
+}
+
+div.about {
+  margin-top: 20px;
 }
