@@ -119,3 +119,8 @@ button.btn-default {
 i.fa {
   font-size: 30px;
 }
+
+.front-end-h3, .back-end-h3 {
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
